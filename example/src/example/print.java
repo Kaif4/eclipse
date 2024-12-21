@@ -1,6 +1,6 @@
 package example;
 
-public class eg {
+public class print {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,5 +8,8 @@ public class eg {
 		System.out.println(a);
 
 	}
+
+	
+		
 
 }
